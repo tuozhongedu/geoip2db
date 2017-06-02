@@ -1,0 +1,12 @@
+{
+    "name": "jiemo/geopi2citydb",
+    "description": "Geoip2 database",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Cong Peijun",
+            "email": "me@congpeijun.com"
+        }
+    ],
+    "require": {}
+}
